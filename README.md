@@ -63,8 +63,11 @@ A **Smart Blind Stick** project designed to assist visually impaired individuals
 
 - **Ultrasonic Sensor** → ESP32 (Trigger & Echo pins)  
 - **Vibration Motor** → ESP32 GPIO + Transistor driver circuit  
-- **Speaker** → ESP32 DAC/PWM pin  
+- **Speaker** → ESP32 DAC/PWM Pin  
 - **SOS Button** → ESP32 GPIO (Input, Pull-up)  
 - **Battery Pack** → ESP32 VIN (through charging circuit)  
 
 ---
+
+
+
